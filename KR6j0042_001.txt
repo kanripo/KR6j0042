@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:16.437262
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:04
 #+TITLE: 蓮華部心念誦儀軌
 #+PROPERTY: CBETA_ID T18n0875
 #+PROPERTY: ID KR6j0042
