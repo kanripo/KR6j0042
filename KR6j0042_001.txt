@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:16.437262
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:04
 #+TITLE: 蓮華部心念誦儀軌
 #+PROPERTY: CBETA_ID T18n0875
 #+PROPERTY: ID KR6j0042
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 875
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0042_T_000-0322b>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0042_T_001-0322b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.875[cf.Nos.873,874]¶
-
- 蓮華部心念誦儀軌¶
+No. 875 [cf. Nos. 873, 874]¶
+蓮華部心念誦儀軌¶
 ¶
 
 淨地。¶
@@ -678,6 +677,6 @@ No.875[cf.Nos.873,874]¶
 
 寫本云。¶
 
-永長二秊四月二十七日奉寫了僧賢尊。¶
+永長二季四月二十七日奉寫了僧賢尊。¶
 
 請來之內以般若寺僧正手筆之本書之。
